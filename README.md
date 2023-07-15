@@ -26,3 +26,14 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
 
 **Target**
 * **fare_amount** - float dollar amount of the cost of the taxi ride. This value is only in the training set; this is what you are predicting in                      the test set and it is required in your submission CSV.
+
+# Method 
+**Data cleaning**
+* **Out-Of-Bound Longitude and Latitude** - -75 <= pickup_longitude <= -72
+                                            -75 <= dropoff_longitude <= -72
+                                            40 <= pickup_latitude <= 42
+                                            40 <= dropoff_latitude <= 42 "
+
+
+  
+
