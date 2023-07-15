@@ -9,3 +9,8 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
 * **test.csv**  - Input features for the test set (about 10K rows). Your goal is to predict fare_amount for each row.  
 * **sample_submission.csv** - a sample submission file in the correct format (columns key and fare_amount). This file 'predicts' fare_amount to be 
                             $11.35 for all rows, which is the mean fare_amount from the training set.
+
+###### Data fields
+**ID**
+* key - Unique string identifying each row in both the training and test sets. Comprised of pickup_datetime plus a unique integer, but this doesn't          matter, it should just be used as a unique ID field.
+        Required in your submission CSV. Not necessarily needed in the training set, but could be useful to simulate a 'submission file' while doing         cross-validation within the training set.
