@@ -36,6 +36,13 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
   40 <= dropoff_latitude <= 42
 * **Missing or Invalid Data Value**
 
+**Feature Engineering: Distance**
+* **Euclidean Distance**
+* **Haversine (Spherical) Distance**
+* **GraphML Routing with NYC Street Network**
+
+
+
 
 
 
