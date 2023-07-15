@@ -25,3 +25,4 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
 * **passenger_count**   - integer indicating the number of passengers in the taxi ride.
 
 **Target**
+* **fare_amount** - float dollar amount of the cost of the taxi ride. This value is only in the training set; this is what you are predicting in                      the test set and it is required in your submission CSV.
