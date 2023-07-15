@@ -29,7 +29,7 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
 
 # Method 
 **Data cleaning**
-* **Out-Of-Bound Longitude and Latitude** 
+* **Out-Of-Bound Longitude and Latitude**   
   -75 <= pickup_longitude <= -72  
   -75 <= dropoff_longitude <= -72  
   40 <= pickup_latitude <= 42  
