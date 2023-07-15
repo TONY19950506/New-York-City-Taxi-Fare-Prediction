@@ -33,7 +33,10 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
   -75 <= pickup_longitude <= -72  
   -75 <= dropoff_longitude <= -72  
   40 <= pickup_latitude <= 42  
-  40 <= dropoff_latitude <= 42  
+  40 <= dropoff_latitude <= 42
+* **Missing or Invalid Data Value**
+
+
 
 
   
