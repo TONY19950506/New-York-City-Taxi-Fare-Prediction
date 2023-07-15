@@ -58,6 +58,12 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
 **Price Increase**  
 ![image](https://github.com/TONY19950506/New-York-City-Taxi-Fare-Prediction/assets/110157487/0311f44b-62b7-4364-9aab-359417638692)
 
+**Training Method** 
+* **XGBoost**
+* **LBGM**
+* **Random Forest**
+
+#Conclusion
 
 
 
