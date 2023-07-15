@@ -63,7 +63,9 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
 * **LBGM**
 * **Random Forest**
 
-#Conclusion
+# Conclusion
+First,I use three training method.I get 3.18681 for Random Forest,3.32189 for LBGM,and 3.54539 for XGBoost,not very well.
+Then,I add new features Manhattan distance then I get my best score 3.00709.
 
 
 
