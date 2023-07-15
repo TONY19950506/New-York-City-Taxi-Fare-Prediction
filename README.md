@@ -45,6 +45,11 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
 * **Separation of Datetime**
 * **Sine and cosine transformation with the matching period**
 
+**NYC Fare Regulation**
+* Once the taxi goes beyond the City limit to Nassau or Westchester, the on-screen rate message should read "Rate #04 – Out of City Rate to Nassau or Westchester." The metered fare is double the amount from the City limit to your destination.  
+
+
+
 
 
 
