@@ -55,7 +55,7 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
 * Trips between Manhattan and John F. Kennedy Airport (JFK) in either direction: $70 Plus 50 cents State Surcharge
 * Trips to Newark Airport (EWR): Standard metered fare.Plus $20.00 Newark Surcharge.
 
-**Price Increase**
+**Price Increase**  
 ![image](https://github.com/TONY19950506/New-York-City-Taxi-Fare-Prediction/assets/110157487/0311f44b-62b7-4364-9aab-359417638692)
 
 
