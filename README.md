@@ -46,10 +46,17 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
 * **Sine and cosine transformation with the matching period**
 
 **NYC Fare Regulation**
-* Once the taxi goes beyond the City limit to Nassau or Westchester, the on-screen rate message should read "Rate #04 – Out of City Rate to Nassau or Westchester." The metered fare is double the amount from the City limit to your destination.  
+* Once the taxi goes beyond the City limit to Nassau or Westchester, the on-screen rate message should read "Rate #04 – Out of City Rate to Nassau or Westchester." The metered fare is double the amount from the City limit to your destination.
+* Plus $1.00 overnight surcharge 8pm to 6am
+* Plus $2.50 rush hour surcharge from 4pm to 8pm on weekdays
+##### Airport Access Fee
+* Taxi: $1.75 for pick up only at LaGuardia and John F. Kennedy Airports
+* Trips to and from LaGuardia Airport (LGA) are charged the standard metered fare, plus a $5.00 surcharge and all other applicable surcharges
+* Trips between Manhattan and John F. Kennedy Airport (JFK) in either direction: $70 Plus 50 cents State Surcharge
+* Trips to Newark Airport (EWR): Standard metered fare.Plus $20.00 Newark Surcharge.
 
-
-
+**Price Increase**
+![image](https://github.com/TONY19950506/New-York-City-Taxi-Fare-Prediction/assets/110157487/0311f44b-62b7-4364-9aab-359417638692)
 
 
 
