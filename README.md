@@ -41,6 +41,12 @@ This is a competition on kaggle.The url: https://www.kaggle.com/competitions/new
 * **Haversine (Spherical) Distance**
 * **GraphML Routing with NYC Street Network**
 
+**Feature Engineering: Time**
+* **Separation of Datetime**
+* **Sine and cosine transformation with the matching period**
+
+
+
 
 
 
